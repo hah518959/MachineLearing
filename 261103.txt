@@ -43,6 +43,3 @@ x-[sigmoid function]-node-[sigmoid function]-y
 인공지능으로 그 연산을 하기 위해서는 논리 회로를 설명할 줄 알아야하는데
 트레이닝이 안되어서
 
-
-
-
